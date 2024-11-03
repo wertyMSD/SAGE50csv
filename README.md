@@ -34,5 +34,5 @@ Bienvenido a **SAGE50csv**, una aplicación amigable que hace fácil la tarea de
 Descubre cómo **SAGE50csv** puede hacer tu trabajo con **SAGE50** más fácil, eficiente y sin complicaciones. 🙌
 ---
 
-Si necesitas más información, consulta el [Manual de Usuario](https://wertymsd.github.io/Sage50csv/) para obtener una guía detallada de cómo aprovechar todas las funcionalidades de la aplicación.
+Si necesitas más información, consulta el [Manual de Usuario](https://wertymsd.github.io/SAGE50csv/) para obtener una guía detallada de cómo aprovechar todas las funcionalidades de la aplicación.
 
